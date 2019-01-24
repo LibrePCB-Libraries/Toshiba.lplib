@@ -3,7 +3,7 @@
  (description "Semiconductors and storage (inofficial).")
  (keywords "")
  (author "LibrePCB")
- (version "0.1")
+ (version "0.1.1")
  (created 2019-01-23T21:48:28Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Toshiba.lplib")
