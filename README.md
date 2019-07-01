@@ -4,7 +4,7 @@
 
 Semiconductors and storage.
 
-Inofficial library, not endorsed by Toshiba.
+Unofficial library, not endorsed by Toshiba.
 
 ## License
 
