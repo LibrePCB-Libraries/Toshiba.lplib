@@ -1,6 +1,6 @@
 (librepcb_library 7ccb2035-7a2c-4c3b-aecd-52e942bc2e4c
  (name "Toshiba")
- (description "Semiconductors and storage (inofficial).")
+ (description "Semiconductors and storage (unofficial).")
  (keywords "")
  (author "LibrePCB")
  (version "0.1.1")
