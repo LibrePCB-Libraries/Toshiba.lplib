@@ -3,7 +3,7 @@
  (description "Toshiba MOSFET P-CH 12V 6A\n\nDigikey: SSM3J338RLFCT-ND")
  (keywords "toshiba,mosfet,p-channel,p-fet")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.2")
  (created 2019-01-22T19:40:57Z)
  (deprecated false)
  (generated_by "")

@@ -3,7 +3,7 @@
  (description "Toshiba MOSFET N-CH 30V 3.5A\n\nDigikey: SSM3K329RLFCT-ND")
  (keywords "toshiba,mosfet,n-channel,n-fet")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.2")
  (created 2018-07-24T13:04:24Z)
  (deprecated false)
  (generated_by "")
